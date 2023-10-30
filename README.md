@@ -1,1 +1,1 @@
-# CodSoftIntern_Sales
+This repository contains a dataset and code for Sales Prediction using Python. The dataset includes information on advertising budgets and their impact on sales, providing valuable insights for businesses. Dive into the data, explore the relationships between advertising channels and sales, and unlock the potential to boost your business's profitability.
